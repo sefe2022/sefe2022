@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
 body{
  background-color: darkcyan;
-
+   
 }
 
 
@@ -19,6 +19,7 @@ h1{
 
 /* redes */
 .redes {
+  
   background-color: lightcyan;
   
 }
@@ -31,13 +32,14 @@ h1{
   background-color: lightcyan;
   border-style: solid;
  position: relative;
- 
+ display: inline-flex;
 }
 
 .redes a:hover {
   
   color: black;
 }
+
 
 
 
