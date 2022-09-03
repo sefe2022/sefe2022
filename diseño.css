@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
 body{
- background-color: darkcyan;
+ background-image: linear-gradient(to right, #8627b9, #5260dd, #0085ef, #00a2f1, #12bceb);
  font-size: 20px;
 }
 
@@ -10,7 +10,7 @@ h1{
   color:rebeccapurple;
   padding: 0 10px;
   border-radius: 10px;
-  background-color: lightcyan;
+  
   border-style: solid;
   display: inline-flex;
 
@@ -22,7 +22,7 @@ h1{
 /* redes */
 .redes {
   
-  background-color: darkcyan;
+  
   font-size: ;
 }
 .redes a{
@@ -31,17 +31,16 @@ h1{
   color: rebeccapurple;
   padding: 0 10px;
   border-radius: 10px;
-  background-color: darkcyan;
   border-style: solid;
  position: relative;
  display: inline-flex;
+
 }
 
 .redes a:hover {
   
   color: black;
 }
-
 
 
 
