@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
 body{
  background-color: darkcyan;
-   font-size: 25px;
+ font-size: 20px;
 }
 
 
@@ -13,23 +13,25 @@ h1{
   background-color: lightcyan;
   border-style: solid;
   display: inline-flex;
+
 }
+
 
 
 
 /* redes */
 .redes {
   
-  background-color: lightcyan;
-  
+  background-color: darkcyan;
+  font-size: ;
 }
 .redes a{
-  
+  font-size:25px;
   text-decoration: none;
   color: rebeccapurple;
   padding: 0 10px;
   border-radius: 10px;
-  background-color: lightcyan;
+  background-color: darkcyan;
   border-style: solid;
  position: relative;
  display: inline-flex;
