@@ -10,7 +10,7 @@ h1{
   color:rebeccapurple;
   padding: 0 10px;
   border-radius: 10px;
-  
+  background-color: lightcyan;
   border-style: solid;
   display: inline-flex;
 
@@ -34,7 +34,7 @@ h1{
   border-style: solid;
  position: relative;
  display: inline-flex;
-
+ background-color: lightcyan;
 }
 
 .redes a:hover {
